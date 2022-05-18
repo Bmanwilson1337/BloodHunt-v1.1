@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(473,5): warning MSB8003: The WindowsSDKDir property is not defined. Some build tools may not be found.
+  imgui.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\imgui\imgui.h(56,10): fatal error C1083: Cannot open include file: 'float.h': No such file or directory
+  imgui_demo.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\imgui\imgui.h(56,10): fatal error C1083: Cannot open include file: 'float.h': No such file or directory
+  imgui_draw.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\imgui\imgui.h(56,10): fatal error C1083: Cannot open include file: 'float.h': No such file or directory
+  imgui_impl_dx9.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\imgui\imgui.h(56,10): fatal error C1083: Cannot open include file: 'float.h': No such file or directory
+  imgui_impl_win32.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\imgui\imgui.h(56,10): fatal error C1083: Cannot open include file: 'float.h': No such file or directory
+  imgui_tables.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\imgui\imgui.h(56,10): fatal error C1083: Cannot open include file: 'float.h': No such file or directory
+  imgui_widgets.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\imgui\imgui.h(56,10): fatal error C1083: Cannot open include file: 'float.h': No such file or directory
+  main.cpp
+C:\Users\GGPC\2\BloodHunt-v1.1\BloodHunt\HackExternal\HackExternal\function.h(1,10): fatal error C1083: Cannot open include file: 'windows.h': No such file or directory
+  baseadress.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Mhyprot\baseadress.cpp': No such file or directory
+  file_utils.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Mhyprot\file_utils.cpp': No such file or directory
+  mhyprot.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Mhyprot\mhyprot.cpp': No such file or directory
+  service_utils.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Mhyprot\service_utils.cpp': No such file or directory
+  utils.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Mhyprot\utils.cpp': No such file or directory
+  win_utils.cpp
+c1xx : fatal error C1083: Cannot open source file: 'Mhyprot\win_utils.cpp': No such file or directory
